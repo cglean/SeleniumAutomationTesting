@@ -2,14 +2,8 @@ package springMusic;
 
 import java.util.Properties;
 
-import javax.mail.*;
-import javax.mail.internet.*;
-import javax.mail.internet.MimeMessage.RecipientType;
 import javax.activation.*;
 
-import org.codemonkey.simplejavamail.Mailer;
-import org.codemonkey.simplejavamail.TransportStrategy;
-import org.codemonkey.simplejavamail.email.Email;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
